@@ -1,3 +1,5 @@
+[← Back to home](../README.md)
+
 # Irregular Militia Forces
 
 ![Irregular Militia Forces](./irregular-militia-forces.png)
