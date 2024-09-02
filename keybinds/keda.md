@@ -1,6 +1,10 @@
 # Squad Keybinds
 
-## Infantry Keybinds
+<table>
+  <tr>
+    <td valign="top">
+
+### Infantry Keybinds
 
 - **Steady Aim While ADS**: `LEFT SHIFT`
 - **Go to Crouch**: `LEFT CTRL`
@@ -23,7 +27,10 @@
 - **Lean Right**: `THUMB MOUSE BUTTON 2`
 - **Bipod**: `H`
 
-## Voice/Command
+    </td>
+    <td valign="top">
+
+### Voice/Command
 
 - **Local Voice**: `C`
 - **Squad Voice**: `V`
@@ -35,7 +42,10 @@
 - **Defend Mark**: `F5`
 - **Construct Mark**: `F6`
 
-## General
+    </td>
+    <td valign="top">
+
+### General
 
 - **Command Menu**: `CAPS LOCK`
 - **Deployment Menu**: `ENTER`
@@ -48,3 +58,7 @@
 - **Text Chat to All**: `J`
 - **Text Chat to Team**: `K`
 - **Text Chat to Squad**: `L`
+
+    </td>
+  </tr>
+</table>
