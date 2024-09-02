@@ -16,3 +16,7 @@
 - [Turkish Land Forces](factions/turkish-land-forces/turkish-land-forces.md)
 - [United States Army](factions/united-states-army/united-states-army.md)
 - [United States Marine Corps](factions/united-states-marine-corps/united-states-marine-corps.md)
+
+## Keybinds
+
+- [Keda's Keybinds](keybinds/keda.md)
