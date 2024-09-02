@@ -36,4 +36,3 @@ The United States Army is the land warfare branch of the US Armed Forces. It is 
 |                      | Unarmed          | —                                                                    | —                                                                    | —                                                          | —                                                                      | —                                    | —                                                                          |
 
 
-## Vehicles

@@ -40,4 +40,3 @@ The USMC is the maritime land force service branch of the United States Armed Fo
 |                      | Unarmed          | —                                                                    | —                                                                    | —                                                          | —                                                                      | —                                    | —                                                                          |
 
 
-## Vehicles

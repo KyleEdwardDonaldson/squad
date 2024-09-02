@@ -40,4 +40,4 @@ This unconventional force of freedom fighters, para-military guerrillas and dese
 |                      | Heavy Anti-Tank | M16A2, 7 mags                                                 | AK74 Bayonet                                                    | RPG-29 Tandem Heavy Anti-Tank, 2 rockets            |                                                   |                                     |                                                                     |
 |                      | Saboteur        | AKS-74U + Banana Mag, 6 mags                                  | AK74 Bay
 
-## Vehicles
+

@@ -38,4 +38,3 @@ The People’s Liberation Army (PLA) is the primary armed force of the People's 
 | **Miscellaneous**     | Recruit          | QBZ95-1, 1 mag                                                         | —                                                                    | —                                                        | —                                                                      | Field Dressing, 1 package              | WJQ308                                                             |
 |                      | Unarmed          | —                                                                    | —                                                                    | —                                                        | —                                                                      | —                                    | —                                                                          |
 
-## Vehicles

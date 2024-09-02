@@ -39,4 +39,3 @@ The land component of the Russian military. Formed after the fall of the Soviet 
 | **Miscellaneous**      | Recruit           | AK-74M, 1 mag                                                   | —                                                               | —                                                    | —                                                 | Field Dressing, 1 package             | MPL50 Spade                                                        |
 |                       | Unarmed           | —                                                              | —                                                               | —                                                    | —                                                 | —                                   | —                                                                 |
 
-## Vehicles

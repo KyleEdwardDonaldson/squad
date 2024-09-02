@@ -34,4 +34,3 @@ The MEA is a military organisation formed out of the need to coordinate resource
 | **Miscellaneous**      | Recruit           | G3A3, 1 mag                                                   | —                                                               | —                                                    | —                                                 | Field Dressing, 1 package             | Entrenching Tool                                                        |
 |                       | Unarmed           | —                                                              | —                                                               | —                                                    | —                                                 | —                                   | —                                                                 |
 
-## Vehicles

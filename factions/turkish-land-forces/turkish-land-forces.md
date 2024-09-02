@@ -36,4 +36,3 @@ The Turkish Land Forces (TLF) is the ground combat branch of the Turkish Armed F
 | **Miscellaneous**      | Recruit           | MPT-76, 1 mag                                                 | —                                                               | —                                                    | —                                                 | Field Dressing, 1 package             | Entrenching Tool                                                        |
 |                       | Unarmed           | —                                                              | —                                                               | —                                                    | —                                                 | —                                   | —                                                                 |
 
-## Vehicles

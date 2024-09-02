@@ -38,4 +38,3 @@ The People’s Liberation Army Amphibious Ground Force (PLAAGF) is a playable fa
 | **Miscellaneous**     | Recruit          | QBZ95-1, 1 mag                                                         | —                                                                    | —                                                        | —                                                                      | Field Dressing, 1 package              | WJQ308                                                             |
 |                      | Unarmed          | —                                                                    | —                                                                    | —                                                        | —                                                                      | —                                    | —                                                                          |
 
-## Vehicles

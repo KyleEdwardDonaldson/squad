@@ -38,4 +38,3 @@ Originally a band of political dissidents, the insurgents as they have come to b
 | **Miscellaneous**      | Recruit           | AKM, 1 mag                                                   | —                                                               | —                                                    | —                                                 | Field Dressing, 1 package             | MPL50 Spade                                                        |
 |                       | Unarmed           | —                                                            | —                                                               | —                                                    | —                                                 | —                                   | —                                                                 |
 
-## Vehicles

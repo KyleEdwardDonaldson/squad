@@ -38,4 +38,3 @@ The PLA Navy Marine Corps are the ground forces that fall under the command of t
 | **Miscellaneous**     | Recruit          | QBZ95B-1, 1 mag                                                        | —                                                                    | —                                                        | —                                                                      | Field Dressing, 1 package              | WJQ308                                                             |
 |                      | Unarmed          | —                                                                    | —                                                                    | —                                                        | —                                                                      | —                                    | —                                                                          |
 
-## Vehicles

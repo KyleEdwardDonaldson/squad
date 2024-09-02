@@ -40,4 +40,3 @@ The VDV are the airborne forces of Russia, which are typically used as high-read
 | **Miscellaneous**      | Recruit           | AK-12, 1 mag                                                   | —                                                               | —                                                    | —                                                 | Field Dressing, 1 package             | MPL50 Spade                                                        |
 |                       | Unarmed           | —                                                              | —                                                               | —                                                    | —                                                 | —                                   | —                                                                 |
 
-## Vehicles
